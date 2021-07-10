@@ -1,0 +1,2 @@
+rootProject.name = "Recyclerview_Article_Scroll"
+include ':app'

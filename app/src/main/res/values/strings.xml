@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recyclerview_Article_Scroll</string>
+    <string name="body1_text">See the beautiful oceans of the Pacific coast where the water is so clean you can see the sand.</string>
+    <string name="title1_text">Blue Ocean Waves Crash</string>
+    <string name="body2_text">Long exposure photography is when you leave the shutter open longer than usual to pick up more light.</string>
+    <string name="title2_text">Long Exposure River Bridge</string>
+    <string name="section_text">Featured</string>
+</resources>
